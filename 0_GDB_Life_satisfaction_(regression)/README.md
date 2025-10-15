@@ -43,7 +43,7 @@ The program will:
 ## Results
 The linear regression model shows a positive correlation between GDP per capita and life satisfaction:
 
-![Life Satisfaction vs GDP per Capita](results.png)
+![Life Satisfaction vs GDP per Capita](Results.png)
 
 The red line represents the fitted linear regression model, showing that as GDP per capita increases, life satisfaction tends to increase as well.
 
