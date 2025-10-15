@@ -5,7 +5,7 @@ This repository contains various machine learning projects demonstrating differe
 ## Projects
 
 ### 1. Life Satisfaction vs GDP per Capita (Linear Regression)
-**Directory:** `0_GDB_Life_satisfaction_(regression)`
+**Directory:** `1_GDB_Life_satisfaction_(regression)`
 
 **Description:** Analyzes the relationship between GDP per capita and life satisfaction across different countries using linear regression.
 
@@ -16,7 +16,7 @@ This repository contains various machine learning projects demonstrating differe
 
 **Results Preview:**
 
-![Life Satisfaction Analysis](0_GDB_Life_satisfaction_(regression)/Results.png)
+![Life Satisfaction Analysis](1_GDB_Life_satisfaction_(regression)/Results.png)
 
 The model demonstrates a positive correlation between GDP per capita and life satisfaction, with the red fitted line showing the linear relationship.
 
