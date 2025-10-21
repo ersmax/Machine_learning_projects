@@ -1,10 +1,4 @@
-# Machine Learning Projects Repository
-
-This repository contains various machine learning projects demonstrating different algorithms and techniques.
-
-## Projects
-
-### 1. Life Satisfaction vs GDP per Capita (Linear Regression)
+# 1. Life Satisfaction vs GDP per Capita (Linear Regression)
 **Directory:** `1_GDB_Life_satisfaction_(regression)`
 
 **Description:** Analyzes the relationship between GDP per capita and life satisfaction across different countries using linear regression.
